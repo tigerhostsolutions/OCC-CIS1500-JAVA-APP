@@ -1,3 +1,4 @@
+package vendingapp;
 /**
   Jonte Grasty
   CIS 1500
